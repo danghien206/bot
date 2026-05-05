@@ -1,0 +1,22 @@
+{
+    "title": "Serendipity Price",
+    "desc": "1. Nhấn vào mục chọn sản phẩm để xem chi tiết\n2. Nhấn vào mục chọn gói để xem giá\n3. Chỉ là tham khảo nếu mua hãy tạo Tickets.",
+    "currentImg": "https://i.ibb.co/mCT7pwYM/Serendipity-Auto-Buy-text-on-simple-black-background-1.jpg",
+    "products": [
+        {
+            "name": "NITRO LOGIN",
+            "detail": "- 1 tháng: 80k\n- 1 năm: 800k (Login không cần nuôi mail)\n- 2 tháng (Shop giữ hộ): 99k (+50k phí giữ)\n- 2 tháng (Gia hạn qua Gmail): 90k\n- Promo 3 tháng: 36k/1 (Claim dùm +20k)",
+            "emoji": "<:nitro:1500515246303870976>"
+        },
+        {
+            "name": "BOOST SERVER",
+            "detail": "- 14x Boost / 1 tháng: Liên hệ (DMS)\n- 14x Boost / 3 tháng: Liên hệ (DMS)\n- Mua lẻ: Vui lòng nhắn tin riêng (DMS)",
+            "emoji": "<:nitro:1500515246303870976>"
+        },
+        {
+            "name": "DECOR",
+            "detail": "Bảng giá trang trí (Decor):\n- Gói 66k: 21k\n- Gói 79k: 31k\n- Gói 92k: 45k\n- Gói 105k: 60k\n- Gói 111k: 85k\n- Gói 118k: 74k\n- Gói 131k: 90k\n- Gói 141k: 95k\n- Gói 158k: 100k\n- Gói 170k: 120k\n- Gói 189k: 122k",
+            "emoji": "💎"
+        }
+    ]
+}
