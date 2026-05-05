@@ -1,0 +1,19 @@
+{
+    "targetChannelId": "1500794386592825434",
+    "panelMsgId": "1500800731463028778",
+    "roles": [
+        {
+            "emoji": "<:nam:1500799819306893322>",
+            "roleId": "1500799180409540759"
+        },
+        {
+            "emoji": "<:nu:1500799784787640442>",
+            "roleId": "1500799219034882068"
+        }
+    ],
+    "embed": {
+        "title": "SERENDIPITY REACT ROLE",
+        "description": "Nhấn vào reaction tương ứng để nhận role.",
+        "color": "#ffffff"
+    }
+}

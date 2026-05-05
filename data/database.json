@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "name": "Nitro",
+      "price": 60000,
+      "image": "<:nitro:1500515246303870976>"
+    },
+    {
+      "name": "Rockstar",
+      "price": 15000,
+      "image": "<:nitro:1500515246303870976>"
+    }
+  ],
+  "stock": {
+    "Nitro": [],
+    "Rockstar": []
+  },
+  "orderCount": 3,
+  "setupMessageId": "1500809429354807457",
+  "setupChannelId": "1500501085868265790"
+}

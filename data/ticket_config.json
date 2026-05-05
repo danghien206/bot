@@ -1,0 +1,28 @@
+{
+    "targetChannelId": "1500501085868265792",
+    "categoryId": "1500776246575894630",
+    "panelMsgId": "1501254256580231318",
+    "ticketCount": 9,
+    "embed": {
+        "title": "Serendipity Store",
+        "description": "không spam",
+        "image": "https://i.ibb.co/4rHMHSX/t-i-xu-ng.jpg",
+        "color": "#ffd7d5",
+        "footer": "SerenPay System — Managed by Trần Đăng Hiển"
+    },
+    "options": [
+        {
+            "label": "Mua",
+            "value": "mua"
+        },
+        {
+            "label": "Bán",
+            "value": "bán"
+        },
+        {
+            "label": "Khác",
+            "value": "khác"
+        }
+    ],
+    "channelPrefix": "support-"
+}
